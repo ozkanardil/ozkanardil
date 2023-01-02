@@ -3,6 +3,8 @@
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
+<img src="https://wakatime.com/share/@cfcfc8a2-cf44-452b-a666-40f6e632e3d8/799f4a5c-48cf-46da-9f1b-fe104953e869.svg" />
+
 <!--
 **ozkanardil/ozkanardil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

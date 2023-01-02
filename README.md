@@ -3,9 +3,7 @@
 The following statistical data includes 2023 data and my personal projects.
 There is no access to projects related to my full-time job.
 
-SHOW_COMMIT
 <!--START_SECTION:waka-->
-SHOW_COMMIT 
 <!--END_SECTION:waka-->
 
 <img src="https://wakatime.com/share/@cfcfc8a2-cf44-452b-a666-40f6e632e3d8/93da2d40-4e15-483d-92a0-295f1b7448da.svg" />

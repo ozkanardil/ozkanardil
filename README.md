@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<figure><embed src="https://wakatime.com/share/@cfcfc8a2-cf44-452b-a666-40f6e632e3d8/ef1bf0fa-270c-4006-b544-098744ee42fa.svg"></embed></figure>
+<embed src="https://wakatime.com/share/@cfcfc8a2-cf44-452b-a666-40f6e632e3d8/ef1bf0fa-270c-4006-b544-098744ee42fa.svg"></embed>
 
 <!--
 **ozkanardil/ozkanardil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

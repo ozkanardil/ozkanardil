@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+The following statistical data includes 2023 data and my personal projects.
+There is no access to projects related to my full-time job.
+
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 

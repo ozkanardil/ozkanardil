@@ -3,6 +3,10 @@
 The following statistical data includes 2023 data and my personal projects.  
 Also, top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.
 
+https://img.shields.io/github/stars/ozkanardil?style=plastic 
+https://img.shields.io/github/followers/ozkanardil?style=social 
+
+
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 

@@ -3,14 +3,6 @@
 The following statistical data includes 2023 data and my personal projects.  
 Also, top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.
 
-<div id="badges">
-  <a href="https://www.linkedin.com/in/ozkanardil/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-</div>
-<img src="https://komarev.com/ghpvc/?username=ozkanardil&style=flat-square&color=blue" alt=""/>
-
-
 :telescope: I’m working as a Sr. Full-stack Software Developer and contributing to frontend and backend for building web applications.
 
 :seedling: Exploring Technical Content Writing.
@@ -19,7 +11,7 @@ Also, top languages does not indicate my skill level or anything like that. It i
 
 :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-ozkanardil-blue?style=flat&logo=Linkedin&logoColor=white)]([your-linkedin-url](https://www.linkedin.com/in/ozkanardil/))
 
-
+<img src="https://komarev.com/ghpvc/?username=ozkanardil&style=flat-square&color=blue" alt=""/>
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 

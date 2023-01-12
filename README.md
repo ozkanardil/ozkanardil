@@ -15,8 +15,6 @@ Also, top languages does not indicate my skill level or anything like that. It i
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
-<img src="https://wakatime.com/share/@cfcfc8a2-cf44-452b-a666-40f6e632e3d8/93da2d40-4e15-483d-92a0-295f1b7448da.svg" width="600" height="360" />
-
 <!--
 **ozkanardil/ozkanardil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

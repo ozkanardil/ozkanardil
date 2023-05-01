@@ -1,8 +1,5 @@
 ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 
-The following statistical data includes 2023 data and my personal projects.  
-Also, top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.
-
 :telescope: I’m working as a Software Developer, contributing to frontend and backend for building web applications.
 
 :seedling: Exploring Technical Content Writing.

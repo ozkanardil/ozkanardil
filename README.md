@@ -8,7 +8,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-ozkanardil-blue?style=flat&logo=Linkedin&logoColor=white)]([your-linkedin-url](https://www.linkedin.com/in/ozkanardil/))
 
-<img src="https://komarev.com/ghpvc/?username=ozkanardil&style=flat-square&color=blue" alt=""/>
+<!--<img src="https://komarev.com/ghpvc/?username=ozkanardil&style=flat-square&color=blue" alt=""/>-->
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
